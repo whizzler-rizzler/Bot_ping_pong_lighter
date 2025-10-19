@@ -1,1 +1,1 @@
-web: python3 src/indicators_service.py
+web: python3 indicators_service.py
